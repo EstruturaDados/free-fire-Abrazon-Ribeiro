@@ -35,7 +35,7 @@ int main() {
     int opc;
 
     do {
-        printf("\n==== MOCHILA DE SOBREVIVENCIA ====\n");1
+        printf("\n==== MOCHILA DE SOBREVIVENCIA CODIGO DA ILHA ====\n");1
         printf("1 - Adicionar item\n");
         printf("2 - Remover item pelo nome\n");
         printf("3 - Listar itens\n");
